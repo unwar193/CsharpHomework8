@@ -1,0 +1,15 @@
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\bin\Debug\net6.0\homework8.3.exe
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\bin\Debug\net6.0\homework8.3.deps.json
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\bin\Debug\net6.0\homework8.3.runtimeconfig.json
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\bin\Debug\net6.0\homework8.3.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\bin\Debug\net6.0\homework8.3.pdb
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.csproj.AssemblyReference.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.AssemblyInfoInputs.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.AssemblyInfo.cs
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.csproj.CoreCompileInputs.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\refint\homework8.3.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.pdb
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\homework8.3.genruntimeconfig.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.3\obj\Debug\net6.0\ref\homework8.3.dll

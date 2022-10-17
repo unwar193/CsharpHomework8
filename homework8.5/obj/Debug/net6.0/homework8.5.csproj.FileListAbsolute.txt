@@ -1,0 +1,15 @@
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\bin\Debug\net6.0\homework8.5.exe
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\bin\Debug\net6.0\homework8.5.deps.json
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\bin\Debug\net6.0\homework8.5.runtimeconfig.json
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\bin\Debug\net6.0\homework8.5.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\bin\Debug\net6.0\homework8.5.pdb
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.csproj.AssemblyReference.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.AssemblyInfoInputs.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.AssemblyInfo.cs
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.csproj.CoreCompileInputs.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\refint\homework8.5.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.pdb
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\homework8.5.genruntimeconfig.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 8\homework8.5\obj\Debug\net6.0\ref\homework8.5.dll
